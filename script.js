@@ -1,7 +1,7 @@
 //your JS code here. If required.
 const output = document.querySelector('#output');
 
-const defaultOutput = ()=> output.innerHTML = `<tr id='loading' ><td colspan='2' >loading...</td> </tr>`;
+const defaultOutput = ()=> output.innerHTML = `<tr id='loading' ><td colspan='2' >Loading...</td> </tr>`;
 
 defaultOutput();
 
